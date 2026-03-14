@@ -1,6 +1,6 @@
 Computer Engineering Polytechnic student passionate about software development, databases. I enjoy learning new technologies and building practical solutions through code.
 # 💫 About Me:
-🔭 **I’m currently working on**<br>Yy own ideas<br><br>👯 **I’m looking to collaborate on**<br>Beginner-friendly open-source projects related to software development, database systems.<br><br>🤝 **I’m looking for help with**<br>Enhancing my backend development skills and gaining experience with real-world development workflows.<br><br>🌱 **I’m currently learning**<br>SQL optimization, and improving my programming skills in C, C++, Java, Python, PHP, Android development, and MySQL.<br><br>💬 **Ask me about**<br>Basic programming concepts, database design, and beginner-level web development.<br><br>⚡ **Fun fact**<br>I enjoy building practical technology solutions<br>
+🔭 **I’m currently working on**<br>My own Ideas<br><br>👯 **I’m looking to collaborate on**<br>Beginner-friendly open-source projects related to software development, database systems.<br><br>🤝 **I’m looking for help with**<br>Enhancing my backend development skills and gaining experience with real-world development workflows.<br><br>🌱 **I’m currently learning**<br>SQL optimization, and improving my programming skills in C, C++, Java, Python, PHP, Android development, and MySQL.<br><br>💬 **Ask me about**<br>Basic programming concepts, database design, and beginner-level web development.<br><br>⚡ **Fun fact**<br>I enjoy building practical technology solutions<br>
 
 
 ## 🌐 Socials:
